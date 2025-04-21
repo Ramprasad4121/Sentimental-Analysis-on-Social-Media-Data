@@ -1,6 +1,6 @@
 ## Tasks Overview
 
-### Task 1: Sentiment Analysis on Social Media Data
+### Sentiment Analysis on Social Media Data
 
 For this PBL project, we performed sentiment analysis on social media data using the Sentiment140 dataset. The dataset contains a collection of tweets with pre-labeled sentiments. The main steps involved in this task were:
 
